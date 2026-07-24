@@ -125,3 +125,4 @@ zstandard==0.25.0
 langchain-chroma
 langchain-huggingface
 langchain-community
+sentence-transformers
